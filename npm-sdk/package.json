@@ -1,0 +1,23 @@
+{
+  "name": "onchain-negator",
+  "version": "1.0.0",
+  "description": "npm lib to negate your string, but via Smartcontract",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aayush4vedi/onchain-negator.git"
+  },
+  "author": "hiro5dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aayush4vedi/onchain-negator/issues"
+  },
+  "homepage": "https://github.com/aayush4vedi/onchain-negator#readme",
+  "dependencies": {
+    "ethers": "^5.4.7",
+    "readline-sync": "^1.4.10"
+  }
+}
